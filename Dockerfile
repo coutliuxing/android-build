@@ -1,4 +1,4 @@
-from coutliuxing/android-build-base
+from  darren-clark/android-build-base
 
 #Nougat-x86 reqs
 
